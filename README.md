@@ -7,3 +7,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### ⚛️ Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+
+name: Current year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.calendar.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_calendar: yes

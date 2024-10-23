@@ -46,7 +46,7 @@
 <div>
   <h3>🔥 Some stats</h3>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknxwnwxrld&theme=omni&layout=donut" width="450">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknxwnwxrld&theme=omni&layout=donut&langs_count=20">
     <p></p>
     <img src="https://github-readme-stats.vercel.app/api?username=unknxwnwxrld&theme=omni">
   </div>

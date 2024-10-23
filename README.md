@@ -2,17 +2,19 @@
   <img src="https://media4.giphy.com/media/JqmupuTVZYaQX5s094/200w.gif?cid=6c09b952r8pmkgi4ovssf3nhez4gctd26h2inj2c1qv1z775&ep=v1_gifs_search&rid=200w.gif&ct=g" width="250">
 </div>
 
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=unknxwnwxrld&style=flat-square&color=blue" alt=""/>
+</div>
 
 <div align="center">
   <h2>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> I'm unknxwnwxrld</h2>
-  <img src="https://komarev.com/ghpvc/?username=unknxwnwxrld&style=flat-square&color=blue" alt=""/>
 </div>
 
 
 <div>
+  <h3>Some preferences</h3>
   <div>
-    <h3>My favourite languages & tools:</h3>
+    <h4>My favourite languages & tools:</h4>
     <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -25,7 +27,7 @@
     </div>
   </div>
   <div>
-    <h3>My favourite IDE/Text Editors:</h3>
+    <h4>My favourite IDE/Text Editors:</h4>
     <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="JetBrains Intellij Idea" **alt="JetBrains Intellij Idea" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="JetBrains Webstorm" **alt="JetBrains Webstorm" width="40" height="40"/>
@@ -34,7 +36,7 @@
     </div>
   </div>
   <div>
-    <h3>My favourite OS:</h3>
+    <h4>My favourite OS:</h4>
     <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Archlinux" **alt="Archlinux" width="40" height="40"/>
     </div>

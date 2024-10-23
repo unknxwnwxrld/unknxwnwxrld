@@ -4,7 +4,6 @@
 <div align="center">
 <h2>Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> I'm Oleksii.</h2>
 </div>
-
 <table>
   <tr>
     <td valign="top"><div>
@@ -40,7 +39,16 @@
 
 
 
-### ⚛️ Top used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+### ⚛️ Some stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unknxwnwxrld&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unknxwnwxrld&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+
 
 

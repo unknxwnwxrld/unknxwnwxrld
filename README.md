@@ -19,14 +19,19 @@
   
 </div>
 
-### My favourite IDE/Text Editors
+### My favourite IDE/Text Editors:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="JetBrains Intellij Idea" **alt="JetBrains Intellij Idea" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="JetBrains Webstorm" **alt="JetBrains Webstorm" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="CLion" **alt="CLion" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="Neovim" **alt="Neovim" width="40" height="40"/>
-  <img src="" title="" **alt="" width="40" height="40"/>
-  <img src="" title="" **alt="" width="40" height="40"/>
+</div>
+
+### My favourite OS:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Archlinux" **alt="Archlinux" width="40" height="40"/>
 </div>
 
 ### ⚛️ Top used languages

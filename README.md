@@ -16,10 +16,6 @@
   <div>
     <h4>My favourite languages & tools:</h4>
     <div>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C Program Language" **alt="C Program Language" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
@@ -29,9 +25,6 @@
   <div>
     <h4>My favourite IDE/Text Editors:</h4>
     <div>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="JetBrains Intellij Idea" **alt="JetBrains Intellij Idea" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="JetBrains Webstorm" **alt="JetBrains Webstorm" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="CLion" **alt="CLion" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="Neovim" **alt="Neovim" width="40" height="40"/>
     </div>
